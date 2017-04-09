@@ -1,0 +1,8 @@
+Pizza Size - Medium: $10.00
+Pizza - Chicken Bacon Ranch
+Wings - Mango Habanero: $4.00
+Bread - Bread Sticks: $7.00
+Soft Drinks - Root Beer: $1.50
+Subtotal: $22.50
+Sales Tax: $1.13
+Total: $23.63
